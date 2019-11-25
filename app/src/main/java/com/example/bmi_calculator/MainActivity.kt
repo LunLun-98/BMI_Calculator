@@ -37,7 +37,7 @@ class MainActivity : AppCompatActivity() {
                 toast.setGravity(Gravity.CENTER, 0, 0);
                 toast.show()
             }
-
+            //jj
             btn_reset.setOnClickListener {
                 weight.setText("")
                 height.setText("")
